@@ -80,7 +80,6 @@ while True:
     valorSorteado1=random.randint(1,10)
     valorSorteado2=random.randint(1,10)
     resultadoPotencia=int(valorSorteado1**valorSorteado2)
-    print(resultadoPotencia) # RETIRAR ISSO DPS
     print(f"Qual o resultado de {valorSorteado1} na potência {valorSorteado2}") 
     respostaFase2=int(input("Digite sua resposta apenas com números: "))
     if respostaFase2==resultadoPotencia:
@@ -164,7 +163,6 @@ while True:
     print("Resolva a seguinte fórmula:")
     print("(respostaFase1 + respostaFase2) ^ respostaFase1 - respostaFase2")
     respostaFormula=((respostaFase1+respostaFase2)**respostaFase1)-respostaFase2
-    print(respostaFormula) # RETIRAR DEPOIS
     respostaFase3=int(input("Digite sua resposta apenas com números: "))
     os.system("cls")
     if respostaFase3==respostaFormula:
@@ -250,7 +248,6 @@ while True:
     print(f"{primeiroNumeroSorteado} - {segundoNumeroSorteado} - {terceiroNumeroSorteado} - {quartoNumeroSorteado} - {quintoNumeroSorteado}")
     time.sleep(2)
     os.system("cls")
-    print(f"{primeiroNumeroSorteado} - {segundoNumeroSorteado} - {terceiroNumeroSorteado} - {quartoNumeroSorteado} - {quintoNumeroSorteado}") # TIRAR DEPOIS
     respostaPrimeiroNumero=int(input("Digite o primeiro número que apareceu: "))
     respostaSegundoNumero=int(input("Digite o segundo número que apareceu: "))
     respostaTerceiroNumero=int(input("Digite o terceiro número que apareceu: "))

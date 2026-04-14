@@ -6,7 +6,7 @@ Cada fase testa habilidades como lógica, matemática e memória sob pressão.
 ## Conceito
 Inspirado em jogos de sobrevivência psicológica, o jogador precisa tomar decisões e resolver desafios para avançar.
 
-** Objetivo
+## Objetivo
 Sobreviver a todas as fases acertando os desafios propostos.
 
 ## 🚀 Funcionalidades

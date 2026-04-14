@@ -100,7 +100,7 @@ Este projeto está sob a licença MIT.
 
 ---
 
-## 👨‍💻 Autor
+## 👩‍💻 Autor
 
 **Laura Portella de Souza**
 

@@ -18,11 +18,11 @@ Sobreviver a todas as fases completando corretamente os desafios propostos e ava
 
 ## 🚀 Funcionalidades
 
-* 🔹 Sistema de fases progressivas
-* 🔹 Desafios matemáticos dinâmicos
-* 🔹 Testes de memória
-* 🔹 Narrativa imersiva no terminal
-* 🔹 Sistema de reinício do jogo
+🔹 Sistema de fases progressivas
+🔹 Desafios matemáticos dinâmicos
+🔹 Testes de memória
+🔹 Narrativa imersiva no terminal
+🔹 Sistema de reinício do jogo
 
 ---
 

@@ -6,7 +6,7 @@
 
 ## 🧠 Conceito
 
-Inspirado em jogos de sobrevivência psicológica, o jogador enfrenta desafios progressivos que testam suas habilidades sob pressão. Cada erro pode significar o fim da partida.
+O jogador enfrenta desafios progressivos que testam suas habilidades sob pressão. Cada erro pode significar o fim da partida.
 
 ---
 
